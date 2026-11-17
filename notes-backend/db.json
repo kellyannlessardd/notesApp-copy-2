@@ -1,0 +1,43 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": true
+    },
+    {
+      "id": 1791214211999,
+      "content": "React est un framework tres puissant",
+      "important": false
+    },
+    {
+      "id": 1791376984831,
+      "content": "oui",
+      "important": false
+    },
+    {
+      "id": 1794883161558,
+      "content": "poicnibnaviuwe93hfcm032micpqjmcp993unc939cnm9pxq9p3x8mj4ux8hn48n0c09q34uj0q394umx9u-49imxq-304fu93mg",
+      "important": false
+    },
+    {
+      "id": 1794886628572,
+      "content": "finish project",
+      "important": false,
+      "category": "Personnel",
+      "completed": false
+    },
+    {
+      "id": 1794886645285,
+      "content": "orange",
+      "important": false,
+      "category": "École",
+      "completed": false
+    }
+  ]
+}
